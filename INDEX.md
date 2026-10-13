@@ -5,4 +5,5 @@ Search: `grep -l 'tags:.*dsm' 20*/*.md`, or `grep -ril <word> 20*/`.
 
 | Date | Type | Title | Tags |
 | --- | --- | --- | --- |
+| 2026-10-13 | meeting | [Hackathon meeting with Sir Ed](2026/2026-10-13-hackathon-meeting-with-sir-ed.md) | meeting, hackathon, relay-launch, ai-leveling, growth-portal |
 | 2026-10-12 | meeting | [Sync-up with Sir Lloyd – Vic intro, new technical direction](2026/2026-10-12-sync-up-with-sir-lloyd-vic-intro-new-technical-direction.md) | meeting, growth-portal, leo, growth-framework, code-review, hackathon, gp-259, gp-261, gp-262, gp-263 |
