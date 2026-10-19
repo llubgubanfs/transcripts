@@ -5,6 +5,7 @@ Search: `grep -l 'tags:.*dsm' 20*/*.md`, or `grep -ril <word> 20*/`.
 
 | Date | Type | Title | Tags |
 | --- | --- | --- | --- |
+| 2026-10-19 | meeting | [Feature alignment (11 AM)](2026/2026-10-19-feature-alignment-11-am.md) | meeting, growth-portal, performance-review, badges, career-objectives, action-plan |
 | 2026-10-15 | dsm | [DSM and hackathon scoring rubric](2026/2026-10-15-dsm-and-hackathon-scoring-rubric.md) | dsm, growth-portal, gp-263, gp-262, gp-258, gp-259, gp-273, hackathon, scoring-rubric |
 | 2026-10-14 | dsm | [DSM](2026/2026-10-14-dsm.md) | dsm, growth-portal, gp-263, gp-257, gp-262, gp-273, hackathon, git-practices |
 | 2026-10-13 | meeting | [Hackathon meeting with Sir Ed](2026/2026-10-13-hackathon-meeting-with-sir-ed.md) | meeting, hackathon, relay-launch, ai-leveling, growth-portal |
