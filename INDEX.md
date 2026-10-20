@@ -5,6 +5,7 @@ Search: `grep -l 'tags:.*dsm' 20*/*.md`, or `grep -ril <word> 20*/`.
 
 | Date | Type | Title | Tags |
 | --- | --- | --- | --- |
+| 2026-10-20 | meeting | [Team direction call with Sir Lloyd and Miss Marissa](2026/2026-10-20-team-direction-call-with-sir-lloyd-and-miss-marissa.md) | meeting, growth-portal, management, badges, sprint, leyo, performance-review, growth-framework |
 | 2026-10-19 | meeting | [Sync with Miss Marissa – performance review requirements](2026/2026-10-19-sync-with-miss-marissa-performance-review-requirements.md) | meeting, growth-portal, performance-review, badges |
 | 2026-10-19 | meeting | [Feature alignment (11 AM)](2026/2026-10-19-feature-alignment-11-am.md) | meeting, growth-portal, performance-review, badges, career-objectives, action-plan |
 | 2026-10-19 | dsm | [DSM](2026/2026-10-19-dsm.md) | dsm, hackathon, gp-262, gp-273, badges, release |
