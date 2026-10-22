@@ -5,6 +5,7 @@ Search: `grep -l 'tags:.*dsm' 20*/*.md`, or `grep -ril <word> 20*/`.
 
 | Date | Type | Title | Tags |
 | --- | --- | --- | --- |
+| 2026-10-22 | meeting | [Hackathon meeting 2 with Sir Ed](2026/2026-10-22-hackathon-meeting-2-with-sir-ed.md) | meeting, hackathon, relay-launch, judging, schedule, tokens |
 | 2026-10-21 | meeting | [Rocks stand-up: minimum assignment-duration setting and review edit](2026/2026-10-21-rocks-stand-up-minimum-assignment-duration-setting-and-revie.md) | meeting, rocks, performance-review, gp-285, gp-287, settings, review-edit |
 | 2026-10-20 | meeting | [Team direction call with Sir Lloyd and Miss Marissa](2026/2026-10-20-team-direction-call-with-sir-lloyd-and-miss-marissa.md) | meeting, growth-portal, management, badges, sprint, leyo, performance-review, growth-framework |
 | 2026-10-20 | dsm | [DSM](2026/2026-10-20-dsm.md) | dsm, growth-portal, hackathon, performance-review, client-brief |
