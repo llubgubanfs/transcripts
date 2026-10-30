@@ -5,6 +5,7 @@ Search: `grep -l 'tags:.*dsm' 20*/*.md`, or `grep -ril <word> 20*/`.
 
 | Date | Type | Title | Tags |
 | --- | --- | --- | --- |
+| 2026-10-30 | dsm | [DSM](2026/2026-10-30-dsm.md) | dsm, growth-portal, performance-analytics, performance-review, gp-296, gp-292, gp-295 |
 | 2026-10-27 | dsm | [DSM](2026/2026-10-27-dsm.md) | dsm, growth-portal, gp-258, hackathon, demo, unit-testing, performance-analytics |
 | 2026-10-24 | meeting | [LGU permit portal feedback review](2026/2026-10-24-lgu-permit-portal-feedback-review.md) | meeting, lgu-portal, epermits, uploads, roles, validation |
 | 2026-10-23 | dsm | [DSM](2026/2026-10-23-dsm.md) | dsm, growth-portal, gp-285, gp-288, gp-278, gp-289, gp-261, hackathon, release, performance-analytics |
