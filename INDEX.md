@@ -5,6 +5,7 @@ Search: `grep -l 'tags:.*dsm' 20*/*.md`, or `grep -ril <word> 20*/`.
 
 | Date | Type | Title | Tags |
 | --- | --- | --- | --- |
+| 2026-11-06 | dsm | [DSM](2026/2026-11-06-dsm.md) | dsm, growth-portal, gp-299, gp-300, hackathon, relay-launch |
 | 2026-11-05 | dsm | [DSM](2026/2026-11-05-dsm.md) | dsm, growth-portal, gp-299, gp-300, gp-302, gp-303, gp-279, gp-292, gp-278, sprint-62 |
 | 2026-11-04 | dsm | [DSM](2026/2026-11-04-dsm.md) | dsm, growth-portal, gp-250, gp-279, gp-299, gp-300, gp-302, gp-303, pre-assessment, release, cherry-pick |
 | 2026-11-03 | dsm | [DSM](2026/2026-11-03-dsm.md) | dsm, growth-portal, gp-299, gp-300, performance-analytics, freeze-count, rocks |
