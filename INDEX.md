@@ -6,6 +6,7 @@ Search: `grep -l 'tags:.*dsm' 20*/*.md`, or `grep -ril <word> 20*/`.
 | Date | Type | Title | Tags |
 | --- | --- | --- | --- |
 | 2026-11-12 | meeting | [Meeting with Ms. Marisa – custom quarter ranges for review lock](2026/2026-11-12-meeting-with-ms-marisa-custom-quarter-ranges-for-review-lock.md) | meeting, growth-portal, gp-299, gp-300, performance-review, custom-range-lock |
+| 2026-11-12 | dsm | [DSM](2026/2026-11-12-dsm.md) | dsm, growth-portal, gp-299, gp-300, gp-302, release-1-65, sprint-63 |
 | 2026-11-11 | dsm | [DSM](2026/2026-11-11-dsm.md) | dsm, growth-portal, gp-307, gp-308, gp-310, gp-282, gp-279, release, relay-launch |
 | 2026-11-10 | dsm | [DSM](2026/2026-11-10-dsm.md) | dsm, growth-portal, gp-299, gp-300, gp-303, gp-305, gp-279, unit-tests, demo-videos, hackathon |
 | 2026-11-09 | dsm | [DSM](2026/2026-11-09-dsm.md) | dsm, growth-portal, hackathon, relay-launch, gp-299, gp-300, gp-279, gp-292, unit-testing |
