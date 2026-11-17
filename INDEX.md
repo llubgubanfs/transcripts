@@ -5,6 +5,7 @@ Search: `grep -l 'tags:.*dsm' 20*/*.md`, or `grep -ril <word> 20*/`.
 
 | Date | Type | Title | Tags |
 | --- | --- | --- | --- |
+| 2026-11-17 | dsm | [DSM](2026/2026-11-17-dsm.md) | dsm, growth-portal, gp-318, gp-319, gp-303, gp-320, gp-314, custom-range, performance-review |
 | 2026-11-13 | dsm | [DSM](2026/2026-11-13-dsm.md) | dsm, growth-portal, gp-305, gp-307, custom-range-lock, performance-review, grace-period, team-building |
 | 2026-11-12 | meeting | [Meeting with Ms. Marisa – custom quarter ranges for review lock](2026/2026-11-12-meeting-with-ms-marisa-custom-quarter-ranges-for-review-lock.md) | meeting, growth-portal, gp-299, gp-300, performance-review, custom-range-lock |
 | 2026-11-12 | dsm | [DSM](2026/2026-11-12-dsm.md) | dsm, growth-portal, gp-299, gp-300, gp-302, release-1-65, sprint-63 |
