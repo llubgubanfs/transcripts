@@ -6,6 +6,7 @@ Search: `grep -l 'tags:.*dsm' 20*/*.md`, or `grep -ril <word> 20*/`.
 | Date | Type | Title | Tags |
 | --- | --- | --- | --- |
 | 2026-11-23 | meeting | [Meeting with Ms. Marisa - Workshop Q4 fix, Custom reviews, team feedback](2026/2026-11-23-meeting-with-ms-marisa-workshop-q4-fix-custom-reviews-team-f.md) | meeting, growth-portal, custom-ranges, workshop, probationary, hackathon |
+| 2026-11-23 | dsm | [DSM](2026/2026-11-23-dsm.md) | dsm, growth-portal, gp-329, gp-325, gp-328, gp-327, gp-330 |
 | 2026-11-19 | meeting | [Meeting with Ms. Marisa – manager dashboard cards](2026/2026-11-19-meeting-with-ms-marisa-manager-dashboard-cards.md) | meeting, growth-portal, performance-analytics, grace-dashboard-tiles |
 | 2026-11-17 | dsm | [DSM](2026/2026-11-17-dsm.md) | dsm, growth-portal, gp-318, gp-319, gp-303, gp-320, gp-314, custom-range, performance-review |
 | 2026-11-13 | dsm | [DSM](2026/2026-11-13-dsm.md) | dsm, growth-portal, gp-305, gp-307, custom-range-lock, performance-review, grace-period, team-building |
